@@ -1,0 +1,78 @@
+
+#heading
+{
+	text-align: center;
+	font-family: 'IBM Plex Serif', serif;
+
+}
+
+#form
+{
+	text-align: center;
+	border: 1px solid blue;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 5%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	box-shadow: 10px 5px;
+}
+
+input
+{
+	margin-left:35px;
+}
+#cpassword
+{
+	margin-right: 45px;
+}
+#p1
+{
+	padding-left: 4px;
+}
+#file
+{
+	padding-left: 100px;
+}
+
+#p2
+{
+	margin-right: 50px;
+}
+
+table
+{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+th,td
+{
+	text-align: center;
+	min-width: 150px;
+	max-width: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#t
+{
+	min-width: 300px;
+	max-width: 800px;
+}
+
+
+#search {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+#search:focus {
+    width: 30%;
+}
+
+#btn1
+{
+	width: 200px;
+}
